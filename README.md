@@ -1,50 +1,58 @@
-Previsão de Lucro de uma Loja com Ciência de Dados e Machine Learning
+ Projetos de Ciência de Dados e Machine Learning
 
-#Sobre o projeto
+Repositório com dois projetos práticos desenvolvidos em **Python**, utilizando técnicas de **Ciência de Dados, Análise Exploratória e Machine Learning**.
 
-Este projeto aplica técnicas de **Ciência de Dados** e **Machine Learning** para prever o lucro de vendas de uma loja. 
-O desenvolvimento incluiu desde a análise e preparação dos dados até a criação e avaliação de um modelo preditivo utilizando Python.
+ Projeto 1 — Análise, Manipulação e Visualização de Dados
 
-# Objetivo
+Projeto voltado para análise de dados de vendas.
 
-Construir um modelo capaz de estimar o lucro das vendas a partir das informações disponíveis no conjunto de dados, apoiando a tomada de decisões baseada em dados.
+ Principais atividades
 
-# Tecnologias utilizadas
+* Limpeza e tratamento dos dados;
+* Tratamento de valores ausentes e duplicados;
+* Criação de novas variáveis;
+* Análise estatística;
+* Agrupamento de dados por categoria;
+* Visualização de informações com gráficos.
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-* Vs Code
+Tecnologias: Python, Pandas, NumPy, Matplotlib e Seaborn.
 
-#Etapas do projeto
+ Projeto 2 — Ciência de Dados e Machine Learning
 
-* Importação e exploração dos dados.
-* Tratamento de valores ausentes e preparação do dataset.
-* Análise Exploratória de Dados (EDA) com gráficos e visualizações.
-* Codificação das variáveis categóricas (One-Hot Encoding).
-* Treinamento de um modelo de **Regressão Linear**.
-* Avaliação do desempenho utilizando métricas de regressão.
+Projeto de análise de dados de vendas com aplicação de **Machine Learning** para previsão de lucro.
 
-# Resultados
+Principais atividades
 
-O modelo apresentou os seguintes resultados:
+* Análise exploratória dos dados;
+* Tratamento e preparação dos dados;
+* Criação de variáveis;
+* One-Hot Encoding;
+* Separação entre treino e teste;
+* Treinamento de modelo de Regressão Linear;
+* Previsão de resultados;
+* Avaliação utilizando MAE e R².
 
-* **R²:** 0,71
-* **MAE:** 395,43
+Resultado: modelo com R² de aproximadamente 0,71**.
+Tecnologias: Python, Pandas, NumPy, Matplotlib, Seaborn e Scikit-learn.
 
-O coeficiente **R² de 0,71** indica que o modelo consegue explicar aproximadamente **71% da variação do lucro**, demonstrando um bom desempenho para uma primeira abordagem utilizando Regressão Linear.
+Competências Demonstradas
 
-# Melhorias futuras
+* Python para Ciência de Dados
+* Análise Exploratória de Dados
+* Limpeza e tratamento de dados
+* Visualização de dados
+* Pandas e NumPy
+* Machine Learning
+* Regressão Linear
+* Avaliação de modelos
 
-* Comparação com outros algoritmos de regressão, como Random Forest e XGBoost.
-* Engenharia de atributos.
-* Ajuste de hiperparâmetros.
-* Validação cruzada para melhorar a capacidade preditiva do modelo.
+Estrutura
 
-Autor
+├── Análise e manipulação e visualização de dados.ipynb
+├── Projeto de Ciências de Dados e Machine learning (2).ipynb
+└── README.md
+```
 
-**Renan Cunha**
+Objetivo
+
+Demonstrar conhecimentos práticos em **Python, Ciência de Dados, Análise de Dados e Machine Learning**, desde o tratamento dos dados até a construção e avaliação de modelos preditivos.
